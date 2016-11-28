@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ficheros1</string>
+    <string name="fichInt">Añadir Fich Int</string>
+    <string name="fichExt">Añadir Fich Ext</string>
+    <string name="leerInt">Leer Fich "\n"Int</string>
+    <string name="leerExt">Leer Fich "\n"Ext</string>
+    <string name="leerrecurso">Leer\nrecurso</string>
+    <string name="borrarFichInt">borrar fich int</string>
+    <string name="borrarFichExt">borrar fich ext</string>
+</resources>
